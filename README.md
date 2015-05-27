@@ -1,4 +1,6 @@
-# Introduction to Application Extensions Using Swift
+# Introduction to Application Extensions Using Swift by Bill Zink
+
+Meeting agenda: http://srqsoftware.github.io/05-27-2015_Intro-to-App-Extensions-Using-Swift/
 
 # Abstract
 
